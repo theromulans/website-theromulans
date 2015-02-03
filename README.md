@@ -1,2 +1,2 @@
-# website-theromulans
-Simple personal website with pulse feed
+# theromulans.something
+Simple personal website with pulse feed.
